@@ -9,8 +9,7 @@ Um exemplo dado pelo professor durante a aula. Vou reproduzir para treinar.
 
 ## Download 
 
-[⬇️ Baixar o programa](retangulosExemplo.desp.zip) 
-
+[⬇️ Baixar o programa](dist/retangulosExemplo.zip) 
 
 ## Créditos 
 
